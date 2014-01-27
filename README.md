@@ -1,4 +1,6 @@
-sails.js-crud
+Sails.js crud
 =============
 
-Sails.js CRUD
+Sails.js sample CRUD
+
+http://localhost:1337/foo
