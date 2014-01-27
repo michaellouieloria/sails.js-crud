@@ -3,4 +3,7 @@ Sails.js crud
 
 Sails.js sample CRUD
 
-http://localhost:1337/foo
+        > npm install
+        > sails lift
+
+visit http://localhost:1337/foo
